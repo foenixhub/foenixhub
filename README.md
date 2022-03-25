@@ -1,4 +1,4 @@
-- 👋 Hi, we are @foenixhub
+- 👋 Hi, we are Foenix Hub
 - 👀 We are interested in building responsive mobile apps and websites.
 - 🌱 We are currently learning how to build using modern languages.
 - 💞️ We are looking to collaborate on mobile and Web development projects.
